@@ -1,4 +1,4 @@
-# Implementation of two specific logic functions and a combinational circuit in VHDL
+# Implementation of two specific logic functions and a combinational circuit in VHDL using ModelSim
 
 ### Functions F and G:
 
